@@ -1,0 +1,1 @@
+import {IWeather} from './iweather'
